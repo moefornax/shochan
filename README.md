@@ -8,7 +8,7 @@
 🟡 frontend \
 🟡 adding pictures to posts \
 🟡 adding movies to posts \
-🟡 embbeding youtube and streamable to posts \
+🟡 embbeding youtube and streamable to posts 
 
 ##### ✔ - already working, 🔵 - coming asap, 🟡 - to be added later.
 
